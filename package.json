@@ -4,9 +4,13 @@
   "main": "index.js",
   "repository": "git@github.com:florianv/swap-documentation.git",
   "author": "Florian Voutzinos <florian@voutzinos.com>",
+  "homepage": "https://github.com/florianv/swap-documentation/#readme",
   "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^0.14.8"
   }
 }

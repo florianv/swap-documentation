@@ -1,6 +1,6 @@
-# Swap Documentation
+# :books: Swap Documentation
 
-This repository holds the documentation for
+This repository contains the documentation for:
 
 - [Swap](https://github.com/florianv/swap)
 - [Laravel Swap](https://github.com/florianv/laravel-swap)
