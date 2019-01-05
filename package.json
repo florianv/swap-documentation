@@ -1,0 +1,12 @@
+{
+  "name": "swap-documentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:florianv/swap-documentation.git",
+  "author": "Florian Voutzinos <florian@voutzinos.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
